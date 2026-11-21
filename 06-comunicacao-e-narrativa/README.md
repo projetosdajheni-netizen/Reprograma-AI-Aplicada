@@ -1,6 +1,6 @@
 # Semana 06 — Comunicação e Narrativa
 
-**Formação:** IA Aplicada | {reprograma}  
+**Formação:** Todas em Tech — IA Aplicada | {reprograma}  
 **Status:** ✅ Atividade desenvolvida
 
 ## 🎯 Objetivo
