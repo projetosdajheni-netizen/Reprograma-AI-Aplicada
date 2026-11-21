@@ -2,7 +2,7 @@
 
 ## 📚 Sobre a semana
 
-A primeira semana da formação em Inteligência Artificial Aplicada da {reprograma} foi dedicada ao nivelamento das participantes e à introdução dos conceitos de construção de prompts.
+A primeira semana da formação Todas em Tech — IA Aplicada da {reprograma} foi dedicada ao nivelamento das participantes e à introdução dos conceitos de construção de prompts.
 
 Nesse período, também estava em andamento a definição das participantes que seguiriam para as próximas etapas do programa.
 
