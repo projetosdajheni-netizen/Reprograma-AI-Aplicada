@@ -1,6 +1,6 @@
 # Semana 14 — Escala e Otimização
 
-**Formação:** IA Aplicada | {reprograma}  
+**Formação:** Todas em Tech — IA Aplicada | {reprograma}  
 **Projeto:** Meu Ritmo — Sua evolução, no seu tempo  
 **Entrega final:** Apresentação do projeto
 
