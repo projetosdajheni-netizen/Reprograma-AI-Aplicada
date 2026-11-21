@@ -1,6 +1,6 @@
 # Semana 10 — Modelagem de Negócio
 
-**Formação:** IA Aplicada | {reprograma}  
+**Formação:** Todas em Tech — IA Aplicada | {reprograma}  
 **Status:** ✅ Projeto individual desenvolvido e apresentado
 
 ## 🎯 Objetivo
