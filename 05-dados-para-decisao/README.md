@@ -1,6 +1,6 @@
 # Semana 05 — Dados como Insumo para Decisão
 
-**Formação:** IA Aplicada | {reprograma}  
+**Formação:** Todas em Tech — IA Aplicada | {reprograma}  
 **Status:** ✅ Concluída
 
 ## 🎯 Objetivo
