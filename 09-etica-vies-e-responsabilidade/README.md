@@ -1,6 +1,6 @@
 # Semana 09 — Ética, Viés e Responsabilidade
 
-**Formação:** IA Aplicada | {reprograma}  
+**Formação:** Todas em Tech — IA Aplicada | {reprograma}  
 **Status:** ✅ Projeto em grupo desenvolvido
 
 ## 🎯 Objetivo
