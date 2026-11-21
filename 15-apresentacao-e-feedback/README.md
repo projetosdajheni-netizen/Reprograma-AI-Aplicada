@@ -1,6 +1,6 @@
 # Semana 15 — Apresentação e Feedback
 
-**Formação:** IA Aplicada | {reprograma}  
+**Formação:** Todas em Tech — IA Aplicada | {reprograma}  
 **Tema:** Preparação para apresentação do projeto final  
 **Projeto relacionado:** BellaTech
 
