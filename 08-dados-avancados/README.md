@@ -82,3 +82,19 @@ A atividade demonstrou a importância de preparar os dados antes de interpretá-
 Também reforçou que diferenças observadas entre grupos não comprovam, isoladamente, uma relação de causa e efeito.
 
 **O valor da análise de dados está em transformar informações confiáveis em decisões que possam ser testadas e aprimoradas.**
+
+## 💬 Feedback da mentora
+
+**Jessica Alves — 12 de outubro**
+
+A mentora avaliou positivamente a apresentação do Grupo 2 e confirmou que os resultados numéricos estavam consistentes com a base de dados após a limpeza.
+
+Também destacou a priorização das recomendações por esforço e impacto, reconhecendo uma abordagem estratégica próxima à atuação de consultoria.
+
+**Oportunidade de melhoria:** aprimorar a etapa de padronização dos dados, identificando espaços extras em valores categóricos, como `Negative ` na coluna `Feedback`.
+
+### Aprendizado a partir do feedback
+
+A experiência reforçou que a qualidade de uma análise depende não apenas dos cálculos e das visualizações, mas também da atenção aos detalhes durante a preparação dos dados.
+
+Para análises futuras, o processo de limpeza deve incluir a verificação de espaços em branco, inconsistências de escrita e padronização de categorias antes da consolidação dos resultados.
