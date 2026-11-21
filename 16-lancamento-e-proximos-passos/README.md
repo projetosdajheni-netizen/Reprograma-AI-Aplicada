@@ -1,6 +1,6 @@
 # Semana 16 — Lançamento e Próximos Passos
 
-**Formação:** IA Aplicada | {reprograma}  
+**Formação:** Todas em Tech — IA Aplicada | {reprograma}  
 **Projeto final:** BellaTech  
 **Apresentação final:** 19 de novembro de 2026  
 **Duração:** Até 5 minutos
