@@ -1,6 +1,6 @@
 # Semana 04 — IA Generativa Aplicada além do ChatGPT
 
-**Formação:** IA Aplicada | {reprograma}  
+**Formação:** Todas em Tech — IA Aplicada | {reprograma}  
 **Status:** ✅ Concluída  
 **Ferramenta:** ChatGPT — Projetos
 
