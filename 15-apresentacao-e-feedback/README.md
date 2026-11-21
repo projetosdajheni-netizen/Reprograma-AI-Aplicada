@@ -62,6 +62,29 @@ Durante a Semana 15, as orientações da mentora contribuíram para refletir sob
 
 A mentora também participou da avaliação do BellaTech. Sua experiência no ensino de inglês trouxe uma perspectiva especialmente relevante para a análise da proposta.
 
+## 🎨 Atividade prática — Preparação de um pitch de 2 minutos
+
+Como parte da preparação para o projeto final, desenvolvi uma apresentação do **BellaTech**, uma proposta de prática de inglês voltada a mulheres LGBTQIAPN+ que desejam se preparar para entrevistas de emprego.
+
+O material foi estruturado para uma apresentação de até dois minutos e organizado em quatro partes:
+
+1. **Apresentação da proposta:** inglês aplicado ao contexto profissional.
+2. **A dor:** barreiras relacionadas ao uso do inglês em processos seletivos e oportunidades de crescimento.
+3. **A referência:** análise do programa Access to American Innovation como inspiração para conectar aprendizagem e empregabilidade.
+4. **Um dado de impacto:** utilização de uma pesquisa sobre a valorização do inglês na contratação profissional.
+
+A proposta do BellaTech inclui a possibilidade de utilizar inteligência artificial para oferecer prática personalizada e simulações de entrevistas.
+
+**A apresentação foi preparada, mas não chegou a ser realizada oralmente devido ao tempo disponível durante a atividade.**
+
+Mesmo sem a apresentação oral, o exercício permitiu aplicar conceitos de storytelling, pesquisa de referências, definição de público-alvo e comunicação de uma proposta de valor.
+
+**Material produzido:** [Apresentação BellaTech no Canva](https://canva.link/uxen0qjadyhb1ff)
+
+### Reflexão
+
+Essa atividade reforçou a importância de transformar uma ideia em uma narrativa compreensível, conectando um problema real, um público específico e uma solução tecnológica.
+
 ## 💡 Competências desenvolvidas
 
 - Storytelling.
