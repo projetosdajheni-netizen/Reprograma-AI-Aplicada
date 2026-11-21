@@ -1,6 +1,6 @@
 # Semana 02 — Solicitando como Ferramenta de Poder
 
-**Formação:** IA Aplicada | {reprograma}  
+**Formação:** Todas em Tech — IA Aplicada | {reprograma} | {reprograma}  
 **Status:** ✅ Concluída  
 **Modalidade:** Atividade em grupo
 
