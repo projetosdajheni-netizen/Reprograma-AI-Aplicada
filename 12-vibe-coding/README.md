@@ -1,6 +1,6 @@
 # Semana 12 — Vibe Coding
 
-**Formação:** IA Aplicada | {reprograma}  
+**Formação:** Todas em Tech — IA Aplicada | {reprograma}  
 **Projeto:** Meu Ritmo — Organizador Pessoal  
 **Status:** ✅ Projeto desenvolvido em fases
 
