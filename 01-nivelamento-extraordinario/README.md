@@ -1,18 +1,23 @@
-# Aula 01 — Nivelamento Extraordinário
+# Semana 01 — Nivelamento Extraordinário
 
-## Objetivo
-Registrar os aprendizados desta etapa da formação em IA Aplicada da Reprograma.
+## 📚 Sobre a semana
 
-## Conteúdos estudados
-_A preencher com suas anotações._
+A primeira semana da formação em Inteligência Artificial Aplicada da {reprograma} foi dedicada ao nivelamento das participantes e à introdução dos conceitos de construção de prompts.
 
-## Atividade prática
-_A adicionar sua atividade e os arquivos produzidos._
+Nesse período, também estava em andamento a definição das participantes que seguiriam para as próximas etapas do programa.
 
-## Ferramentas utilizadas
-_A preencher._
+## 🎯 Objetivos
 
-## Aprendizados e desafios
-_A preencher com suas próprias palavras._
+- Compreender os conceitos iniciais de elaboração de prompts.
+- Conhecer melhor a dinâmica da formação.
+- Participar do processo de nivelamento.
 
-**Status:** documentação a completar.
+## 💡 Aprendizados
+
+O principal tema abordado foi a construção de prompts, introduzindo a importância de formular instruções para interagir com ferramentas de Inteligência Artificial.
+
+## 📝 Atividades
+
+Semana introdutória, voltada ao nivelamento e à familiarização com os conteúdos da formação.
+
+**Status:** ✅ Concluída
