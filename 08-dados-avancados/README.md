@@ -1,6 +1,6 @@
 # Semana 08 — Dados Avançados: Do Bruto ao Insight
 
-**Formação:** IA Aplicada | {reprograma}  
+**Formação:** Todas em Tech — IA Aplicada | {reprograma}  
 **Status:** ✅ Atividade em grupo desenvolvida
 
 ## 🎯 Objetivo
