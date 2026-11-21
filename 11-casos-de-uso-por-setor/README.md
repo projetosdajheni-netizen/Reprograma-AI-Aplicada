@@ -1,6 +1,6 @@
 # Semana 11 — Casos de Uso por Setor
 
-**Formação:** IA Aplicada | {reprograma}  
+**Formação:** Todas em Tech — IA Aplicada | {reprograma}  
 **Status:** ✅ Proposta de consultoria desenvolvida e apresentada
 
 ## 🎯 Objetivo
