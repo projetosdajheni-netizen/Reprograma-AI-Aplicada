@@ -1,6 +1,6 @@
 # Semana 07 — Visão Estratégica
 
-**Formação:** IA Aplicada | {reprograma}  
+**Formação:** Todas em Tech — IA Aplicada | {reprograma}  
 **Status:** ✅ Atividade desenvolvida
 
 ## 🎯 Objetivo
