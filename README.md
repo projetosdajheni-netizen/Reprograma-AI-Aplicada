@@ -1,6 +1,6 @@
-# Reprograma - IA Aplicada
+# Todas em Tech — IA Aplicada | {reprograma}
 
-Repositório criado para organizar meus estudos, projetos e aprendizados ao longo da formação em IA Aplicada da Reprograma.
+Repositório criado para organizar meus estudos, projetos e aprendizados ao longo da formação Todas em Tech — IA Aplicada da {reprograma}.
 
 ## Objetivo
 
