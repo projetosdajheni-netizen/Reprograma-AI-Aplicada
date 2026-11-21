@@ -1,6 +1,6 @@
 # Semana 13 — RAG, Agentes e Automação
 
-**Formação:** IA Aplicada | {reprograma}  
+**Formação:** Todas em Tech — IA Aplicada | {reprograma}  
 **Projeto:** Meu Ritmo — Agente de Planejamento Consciente  
 **Status:** Documentação do agente e testes apresentados
 
