@@ -1,6 +1,6 @@
 # Semana 03 — IA na Rotina: Automação Inteligente
 
-**Formação:** Todas em Tech — IA Aplicada | {reprograma} | {reprograma}  
+**Formação:** Todas em Tech — IA Aplicada | {reprograma}  
 **Status:** ✅ Concluída
 
 ## 🎯 Objetivo
